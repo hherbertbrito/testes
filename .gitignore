@@ -2,5 +2,5 @@
 */bin/debug.log
 *.log
 !bin/*.log
-teste
+teste*
 node_modules/
