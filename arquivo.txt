@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 teste novamente
 teste
+=======
+teste
+>>>>>>> a23b02e (alterando o arquivo.txt)
